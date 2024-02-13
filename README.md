@@ -1,7 +1,7 @@
 <h1>Tela Series</h1>
 
 <h2>Sobre</h2>
-<p>Site desenvolvido como parta do projeto do curso Java: aplicando a Orientação a Objetos da Alura e Grupo Boticário.</p>
+<p>Projeto desenvolvido como parta do curso Java: aplicando a Orientação a Objetos da Alurao.</p>
 
 ## Tecnologias
 <div>
