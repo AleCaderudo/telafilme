@@ -1,7 +1,7 @@
 <h1>Tela Series</h1>
 
 <h2>Sobre</h2>
-<p>Projeto desenvolvido como parte do curso Java: aplicando a Orientação a Objetos da Alurao.</p>
+<p>Projeto desenvolvido como parte do curso Java: aplicando a Orientação a Objetos da Alura.</p>
 
 ## Tecnologias
 <div>
